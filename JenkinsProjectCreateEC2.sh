@@ -1,5 +1,3 @@
-!/bin/sh
-
 
 # Author: Sumanth
 # What does this script do: It launches an ec2 instance in my aws account 
